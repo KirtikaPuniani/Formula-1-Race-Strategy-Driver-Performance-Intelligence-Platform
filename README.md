@@ -29,3 +29,10 @@ The platform:
 | What strategy maximizes success?        | Monte Carlo race simulator               |
 
 
+**🗂️ Data Sources**
+
+1. Ergast F1 API (official historical data)
+2. Kaggle F1 World Championship dataset
+3. Historical race weather data
+   
+Tables engineered: drivers, constructors, races, lap_times, pit_stops, results, qualifying, standings, race_weather.

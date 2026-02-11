@@ -14,3 +14,18 @@ The platform:
   5. Runs 10,000+ Monte Carlo simulations to estimate race outcomes
   6. Visualizes insights via Power BI dashboards
   7. Deploys a live Streamlit race strategy web app
+
+
+**🧠 Business Problems Solved**
+
+| Question                                | Solution Built                           |
+| --------------------------------------- | ---------------------------------------- |
+| Who will finish on the podium?          | XGBoost prediction model (ROC-AUC: 0.87) |
+| When should a driver pit?               | Pit-loss crossover optimization engine   |
+| Who outperforms their car?              | Driver Efficiency Index (DEI)            |
+| Which team dominates seasons?           | Constructor Dominance Index (CDI)        |
+| Does weather change outcomes?           | Wet vs Dry performance delta             |
+| What is the risk of chaos (Safety Car)? | Logistic risk model                      |
+| What strategy maximizes success?        | Monte Carlo race simulator               |
+
+

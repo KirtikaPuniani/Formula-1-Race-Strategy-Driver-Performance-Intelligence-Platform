@@ -81,8 +81,8 @@ Explainability using SHAP feature importance.
 
 
 3. Strategy Optimization Engine
-    ****Tire degradation regression
-    Pit window optimization
-    Undercut vs Overcut simulation
-    Safety Car probability model
-    10,000+ race Monte Carlo simulations
+    A. Tire degradation regression
+    B. Pit window optimization
+    C. Undercut vs Overcut simulation
+    D. Safety Car probability model
+    E. 10,000+ race Monte Carlo simulations

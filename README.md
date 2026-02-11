@@ -66,8 +66,15 @@ Consistency Index (CI)
 
 
 2. Machine Learning Models
+   
 | Model               | ROC-AUC  |
 | ------------------- | -------- |
 | Logistic Regression | 0.71     |
 | Random Forest       | 0.82     |
-| XGBoost             | **0.87** |
+| XGBoost             | 0.87     |
+
+Targets:
+  Podium Finish
+  Top-5 Finish
+  DNF Risk
+Explainability using SHAP feature importance.

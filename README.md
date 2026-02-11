@@ -16,6 +16,8 @@ The platform:
   7. Deploys a live Streamlit race strategy web app
 
 
+
+
 **🧠 Business Problems Solved**
 
 | Question                                | Solution Built                           |
@@ -29,6 +31,8 @@ The platform:
 | What strategy maximizes success?        | Monte Carlo race simulator               |
 
 
+
+
 **🗂️ Data Sources**
 
 1. Ergast F1 API (official historical data)
@@ -36,3 +40,34 @@ The platform:
 3. Historical race weather data
    
 Tables engineered: drivers, constructors, races, lap_times, pit_stops, results, qualifying, standings, race_weather.
+
+
+
+
+🛠️ Tech Stack
+
+Python: Pandas, NumPy, Scikit-learn, XGBoost, SHAP
+SQL: PostgreSQL (CTEs, Window Functions, Materialized Views)
+Visualization: Power BI
+Deployment: Streamlit
+Statistics: Hypothesis Testing, ANOVA, Variance Modeling
+Simulation: Monte Carlo methods
+
+
+
+🧩 Key Modeling Components
+
+1. Driver & Constructor Performance Modeling
+Driver Efficiency Index (DEI)
+Constructor Dominance Index (CDI)
+Track Dominance Score (TDS)
+Overtake Aggression Score (OAS)
+Consistency Index (CI)
+
+
+2. Machine Learning Models
+| Model               | ROC-AUC  |
+| ------------------- | -------- |
+| Logistic Regression | 0.71     |
+| Random Forest       | 0.82     |
+| XGBoost             | **0.87** |

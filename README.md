@@ -81,6 +81,7 @@ Explainability using SHAP feature importance.
 
 
 3. Strategy Optimization Engine
+   
     A. Tire degradation regression
     B. Pit window optimization
     C. Undercut vs Overcut simulation

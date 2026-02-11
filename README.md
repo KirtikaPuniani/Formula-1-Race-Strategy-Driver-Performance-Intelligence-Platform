@@ -78,3 +78,11 @@ Targets:
   Top-5 Finish
   DNF Risk
 Explainability using SHAP feature importance.
+
+
+3. Strategy Optimization Engine
+    ****Tire degradation regression
+    Pit window optimization
+    Undercut vs Overcut simulation
+    Safety Car probability model
+    10,000+ race Monte Carlo simulations

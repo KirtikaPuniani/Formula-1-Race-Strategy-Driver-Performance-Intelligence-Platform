@@ -14,7 +14,7 @@ The platform:
   5. Runs 10,000+ Monte Carlo simulations to estimate race outcomes
   6. Visualizes insights via Power BI dashboards
   7. Deploys a live Streamlit race strategy web app
-
+                            
 
 
 

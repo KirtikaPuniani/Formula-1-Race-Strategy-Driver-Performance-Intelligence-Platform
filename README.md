@@ -88,6 +88,7 @@ _3. Strategy Optimization Engine_
     E. 10,000+ race Monte Carlo simulations
 
 **📊 Power BI Dashboards**
+
         1. Driver Performance Intelligence
         2. Constructor Strategy War Room
         3. ML Race Outcome Predictor
@@ -97,13 +98,15 @@ _3. Strategy Optimization Engine_
 **🌐 Streamlit Web Application**
 
 _Interactive app where user selects:_
-  A. Driver
-  B. Track
-  C. Weather
-  D. Pit strategy
+
+    A. Driver
+    B. Track
+    C. Weather
+    D. Pit strategy
 
 _And receives:_
-  A. Podium probability
-  B. Optimal pit lap
-  C. Expected finish position
-  D. Strategy recommendation
+
+    A. Podium probability
+    B. Optimal pit lap
+    C. Expected finish position
+    D. Strategy recommendation

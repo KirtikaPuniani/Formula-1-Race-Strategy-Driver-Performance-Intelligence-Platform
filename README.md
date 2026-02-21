@@ -57,11 +57,11 @@ Simulation: Monte Carlo methods
 **🧩 Key Modeling Components**
 
 _1. Driver & Constructor Performance Modeling_
-Driver Efficiency Index (DEI)
-Constructor Dominance Index (CDI)
-Track Dominance Score (TDS)
-Overtake Aggression Score (OAS)
-Consistency Index (CI)
+      A. Driver Efficiency Index (DEI)
+      B. Constructor Dominance Index (CDI)
+      C. Track Dominance Score (TDS)
+      D. Overtake Aggression Score (OAS)
+      E. Consistency Index (CI)
 
 
 _2. Machine Learning Models_
@@ -73,9 +73,9 @@ _2. Machine Learning Models_
 | XGBoost             | 0.87     |
 
 Targets:
-  Podium Finish
-  Top-5 Finish
-  DNF Risk
+  A. Podium Finish
+  B. Top-5 Finish
+  C. DNF Risk
 Explainability using SHAP feature importance.
 
 
@@ -88,22 +88,22 @@ _3. Strategy Optimization Engine_
     E. 10,000+ race Monte Carlo simulations
 
 **📊 Power BI Dashboards**
-Driver Performance Intelligence
-Constructor Strategy War Room
-ML Race Outcome Predictor
-Pit Strategy & Monte Carlo Simulator
+        1. Driver Performance Intelligence
+        2. Constructor Strategy War Room
+        3. ML Race Outcome Predictor
+        4. Pit Strategy & Monte Carlo Simulator
 
 
 **🌐 Streamlit Web Application**
 
 _Interactive app where user selects:_
-Driver
-Track
-Weather
-Pit strategy
+  A. Driver
+  B. Track
+  C. Weather
+  D. Pit strategy
 
 _And receives:_
-Podium probability
-Optimal pit lap
-Expected finish position
-Strategy recommendation
+  A. Podium probability
+  B. Optimal pit lap
+  C. Expected finish position
+  D. Strategy recommendation

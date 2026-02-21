@@ -1,4 +1,4 @@
-****Formula 1 Race Strategy & Driver Performance Intelligence Platform****
+<h1>****Formula 1 Race Strategy & Driver Performance Intelligence Platform****</h1>
 
 An end-to-end Data Science, Analytics, and Strategy Optimization system built on 70+ years of Formula 1 race data to predict race outcomes, optimize pit strategies, and simulate race scenarios using Machine Learning and Monte Carlo methods.
 

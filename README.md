@@ -1,4 +1,4 @@
-**Formula 1 Race Strategy & Driver Performance Intelligence Platform**
+****Formula 1 Race Strategy & Driver Performance Intelligence Platform****
 
 An end-to-end Data Science, Analytics, and Strategy Optimization system built on 70+ years of Formula 1 race data to predict race outcomes, optimize pit strategies, and simulate race scenarios using Machine Learning and Monte Carlo methods.
 
@@ -86,3 +86,24 @@ Explainability using SHAP feature importance.
     C. Undercut vs Overcut simulation
     D. Safety Car probability model
     E. 10,000+ race Monte Carlo simulations
+
+**📊 Power BI Dashboards**
+Driver Performance Intelligence
+Constructor Strategy War Room
+ML Race Outcome Predictor
+Pit Strategy & Monte Carlo Simulator
+
+
+**🌐 Streamlit Web Application**
+
+_Interactive app where user selects:_
+Driver
+Track
+Weather
+Pit strategy
+
+_And receives:_
+Podium probability
+Optimal pit lap
+Expected finish position
+Strategy recommendation

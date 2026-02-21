@@ -7,13 +7,14 @@ An end-to-end Data Science, Analytics, and Strategy Optimization system built on
 This project replicates how real F1 race strategy teams use data to make decisions.
 
 The platform:
-  1. Predicts Podium, Top-5, and DNF probabilities using ML
-  2. Quantifies driver skill vs car performance
-  3. Optimizes pit stop windows using tire degradation modeling
-  4. Models Safety Car risk using logistic regression
-  5. Runs 10,000+ Monte Carlo simulations to estimate race outcomes
-  6. Visualizes insights via Power BI dashboards
-  7. Deploys a live Streamlit race strategy web app
+
+    1. Predicts Podium, Top-5, and DNF probabilities using ML
+    2. Quantifies driver skill vs car performance
+    3. Optimizes pit stop windows using tire degradation modeling
+    4. Models Safety Car risk using logistic regression
+    5. Runs 10,000+ Monte Carlo simulations to estimate race outcomes
+    6. Visualizes insights via Power BI dashboards
+    7. Deploys a live Streamlit race strategy web app
 
 
 
@@ -57,6 +58,7 @@ Simulation: Monte Carlo methods
 **🧩 Key Modeling Components**
 
 _1. Driver & Constructor Performance Modeling_
+
       A. Driver Efficiency Index (DEI)
       B. Constructor Dominance Index (CDI)
       C. Track Dominance Score (TDS)
@@ -73,40 +75,41 @@ _2. Machine Learning Models_
 | XGBoost             | 0.87     |
 
 Targets:
-  A. Podium Finish
-  B. Top-5 Finish
-  C. DNF Risk
+
+    1. Podium Finish
+    2. Top-5 Finish
+    3. DNF Risk
 Explainability using SHAP feature importance.
 
 
 _3. Strategy Optimization Engine_
    
-    A. Tire degradation regression
-    B. Pit window optimization
-    C. Undercut vs Overcut simulation
-    D. Safety Car probability model
-    E. 10,000+ race Monte Carlo simulations
+    1. Tire degradation regression
+    2. Pit window optimization
+    3. Undercut vs Overcut simulation
+    4. Safety Car probability model
+    5. 10,000+ race Monte Carlo simulations
 
 **📊 Power BI Dashboards**
 
-        1. Driver Performance Intelligence
-        2. Constructor Strategy War Room
-        3. ML Race Outcome Predictor
-        4. Pit Strategy & Monte Carlo Simulator
+    1. Driver Performance Intelligence
+    2. Constructor Strategy War Room
+    3. ML Race Outcome Predictor
+    4. Pit Strategy & Monte Carlo Simulator
 
 
 **🌐 Streamlit Web Application**
 
 _Interactive app where user selects:_
 
-    A. Driver
-    B. Track
-    C. Weather
-    D. Pit strategy
+    1. Driver
+    2. Track
+    3. Weather
+    4. Pit strategy
 
 _And receives:_
 
-    A. Podium probability
-    B. Optimal pit lap
-    C. Expected finish position
-    D. Strategy recommendation
+    1. Podium probability
+    2. Optimal pit lap
+    3. Expected finish position
+    4. Strategy recommendation

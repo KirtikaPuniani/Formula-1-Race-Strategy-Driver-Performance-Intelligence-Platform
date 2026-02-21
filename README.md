@@ -43,7 +43,7 @@ Tables engineered: drivers, constructors, races, lap_times, pit_stops, results, 
 
 
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Python: Pandas, NumPy, Scikit-learn, XGBoost, SHAP
 SQL: PostgreSQL (CTEs, Window Functions, Materialized Views)
@@ -54,9 +54,9 @@ Simulation: Monte Carlo methods
 
 
 
-🧩 Key Modeling Components
+**🧩 Key Modeling Components**
 
-1. Driver & Constructor Performance Modeling
+_1. Driver & Constructor Performance Modeling_
 Driver Efficiency Index (DEI)
 Constructor Dominance Index (CDI)
 Track Dominance Score (TDS)
@@ -64,7 +64,7 @@ Overtake Aggression Score (OAS)
 Consistency Index (CI)
 
 
-2. Machine Learning Models
+_2. Machine Learning Models_
    
 | Model               | ROC-AUC  |
 | ------------------- | -------- |
@@ -79,7 +79,7 @@ Targets:
 Explainability using SHAP feature importance.
 
 
-3. Strategy Optimization Engine
+_3. Strategy Optimization Engine_
    
     A. Tire degradation regression
     B. Pit window optimization

@@ -18,6 +18,20 @@ An end-to-end Data Science, Analytics, and Strategy Optimization system built on
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project replicates how real F1 race strategy teams use data to make decisions.
 
 The platform:

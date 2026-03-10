@@ -16,24 +16,6 @@ The platform:
     6. Visualizes insights via Power BI dashboards
     7. Deploys a live Streamlit race strategy web app
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **🧠 Business Problems Solved**
 
 | Question                                | Solution Built                           |

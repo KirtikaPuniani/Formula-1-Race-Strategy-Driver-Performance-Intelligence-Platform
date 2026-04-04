@@ -111,3 +111,7 @@ _And receives:_
     2. Optimal pit lap
     3. Expected finish position
     4. Strategy recommendation
+
+
+<img width="1408" height="768" alt="F1 Strategy" src="https://github.com/user-attachments/assets/76d1da9e-9d37-4bd8-aff9-7b85922d4231" />
+

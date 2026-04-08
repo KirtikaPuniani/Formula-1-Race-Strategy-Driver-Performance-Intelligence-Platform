@@ -64,11 +64,6 @@ _1. Driver & Constructor Performance Modeling_
       E. Consistency Index (CI)
 
 
-
-
-
-
-
 _2. Machine Learning Models_
    
 | Model               | ROC-AUC  |
